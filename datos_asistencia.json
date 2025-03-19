@@ -1,0 +1,33 @@
+{
+    "estudiantes": [
+      {
+        "nombre": "Juan Pérez",
+        "asistencia": ["P", "P", "A", "P", "P", "A", "P", "P", "P", "A", "P", "P", "A", "P", "P", "A", "P"]
+      },
+      {
+        "nombre": "María Gómez",
+        "asistencia": ["P", "A", "P", "P", "A", "P", "P", "P", "P", "P", "P", "A", "P", "P", "A", "P", "P"]
+      },
+      {
+        "nombre": "Luis Torres",
+        "asistencia": ["A", "P", "P", "P", "P", "A", "P", "P", "A", "P", "P", "P", "P", "P", "P", "A", "P"]
+      },
+      {
+        "nombre": "Ana López",
+        "asistencia": ["P", "P", "P", "P", "P", "P", "P", "P", "P", "P", "P", "P", "P", "P", "P", "P", "P"]
+      },
+      {
+        "nombre": "Carlos Ramirez",
+        "asistencia": ["A", "A", "A", "P", "P", "P", "A", "A", "P", "P", "P", "A", "A", "P", "P", "A", "A"]
+      },
+      {
+        "nombre": "Beatriz Salazar",
+        "asistencia": ["P", "P", "P", "A", "P", "P", "P", "P", "A", "P", "P", "P", "P", "A", "P", "P", "P"]
+      },
+      {
+        "nombre": "Diego Rivera",
+        "asistencia": ["P", "P", "A", "P", "P", "P", "P", "A", "P", "P", "P", "A", "P", "P", "P", "P", "A"]
+      }
+    ]
+  }
+  
